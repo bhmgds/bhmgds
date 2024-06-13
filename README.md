@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhmgds
-- 👀 I’m interested in ... -> Backend Development
-- 🌱 I’m currently learning ... -> _Typescript_
+- 👋 Hi, I’m *@bhmgds*
+- 👀 I’m interested in ... -> *_Backend Development_*
+- 🌱 I’m currently learning ... -> *_Typescript_*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
